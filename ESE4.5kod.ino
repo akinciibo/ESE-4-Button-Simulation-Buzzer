@@ -37,7 +37,7 @@ void buton1a(double sicaklik )
     sicaklik =random (aralikkucuk,aralikbuyuk)/10.0;
     delay(100);
   }
-  return sicaklik;
+  
 }
 void buton2a(double sicaklik)
 { 
@@ -49,7 +49,7 @@ void buton2a(double sicaklik)
     sicaklik = random(aralikkucuk, aralikbuyuk) / 10.0;
     delay(100);
   }
-  return sicaklik;
+  
 }
 void lcda(double sicaklik)
 {
